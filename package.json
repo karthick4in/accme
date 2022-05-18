@@ -1,0 +1,19 @@
+{
+  "name": "accme",
+  "version": "1.0.1",
+  "description": "acc me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karthick Rangasamy",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "koa": "^2.13.4",
+    "koa-ejs": "^4.3.0",
+    "koa-session": "^6.2.0",
+    "koa-static": "^5.0.0",
+    "mysql": "^2.18.1"
+  }
+}
